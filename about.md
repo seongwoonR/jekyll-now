@@ -8,7 +8,7 @@ I am Seongwoon
 
 ### More Information
 
-And I am Raul!
+And I am Rault!
 
 I usually talk about lgb'T'
 I have some ideas to make games and i will do my best to make them.
