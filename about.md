@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am Raul!
+I am Seongwoon 
+
+and I am Raul!
 
 ### More Information
 
