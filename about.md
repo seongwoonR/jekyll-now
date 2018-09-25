@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Seongwoon 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+And I am Raul!
+
+I usually talk about lgb'T'
+I have some ideas to make games and i will do my best to make them.
+One of them is about transgender.
+I would like to talk more about queers, especially Transgender's life.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can mail me! [the1reader@gmail.com](mailto:the1reader@gmail.com)
